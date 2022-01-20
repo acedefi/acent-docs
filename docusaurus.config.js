@@ -5,7 +5,7 @@ module.exports = {
   url: 'https://github.io/acedefi/acent-docs',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'Acent swap', 
+  organizationName: 'acedefi', 
   projectName: 'acent-docs',
   themeConfig: {
     navbar: {
