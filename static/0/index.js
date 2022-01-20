@@ -26,7 +26,7 @@ const features = [
       <>
 	Avalanche (AVAX) - The chain we all thought we loved but couldn't figure out. X-chain, 
 	C-Chain, P-Chain, AVAX has them all and it can be confusing if you don't know which is 
-	which. Dive into the blockchain ZERO was the first DEX to launch on.
+	which. Dive into the blockchain Acent was the first DEX to launch on.
       </>
     ),
   },
@@ -67,8 +67,8 @@ function Home() {
       description="Degen Reference Guide">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <h1 className="hero__title white">{siteConfig.title}</h1>
+          <p className="hero__subtitle white">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
               className={classnames(

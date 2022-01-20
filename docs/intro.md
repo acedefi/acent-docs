@@ -27,7 +27,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 August 2, 2021 - Acent Swap goes live so save the date!
 :::
 
-<img alt="Acent Swap Introduction" src={useBaseUrl('/img/relay-intro-header.png')} />
+<!-- <img alt="Acent Swap Introduction" src={useBaseUrl('/img/relay-intro-header.png')} /> -->
 
 ## White Paper
 
@@ -65,7 +65,7 @@ Tokenomics:
 
 1. Advisors — 4% — tokens are fully locked, if an advisor is signed, they received 10% of their tokens after 30 days, 15% after 60 days, and the remaining 25% each quarter thereafter.
 1. IDO — 2.5% — Initial DEX Offering, helps enable us to bootstrap liquidity on the initial ACENT pools. Vested over 4 days. 20% on TGE and 20% daily.
-1. Legacy Zero Holders — 1% — Snapshots already taken. Weighted based on current ZERO holdings. Linearly vests each day for 6 months. Fully vested 12/2021
+1. Legacy ACENT Holders — 1% — Snapshots already taken. Weighted based on current ACENT holdings. Linearly vests each day for 6 months. Fully vested 12/2021
 1. Network Growth Fund — 25% — Linearly vests each day for 2 years. Helps incentivize developers and partners to build on/with ACENT. Fully vested 6/2023.
 1. Community Incentives — 15% — As needed (for liquidity mining for example) — 24 hour timeclock to withdraw any funds from the incentives contract. The community will be notified of the withdraw and an event will be broadcast on blockchain.
 1. Team — 10% — 6 month cliff. Linearly vests each day for 1 year each day after the expiration of the 6 month cliff. Fully vested 12/2022.
@@ -76,19 +76,7 @@ Tokenomics:
 
 * Currently:  
   * Ethereum
-  * Avalanche
   * BSC
-  * Polygon (Matic)
-  * Heco
-
-* Done (waiting for the parachains to go live): 
-  * Moonbeam (Kusama)
-  * DOT
-
-* In Development:
-  * Cosmos
-  * Fantom
-  * Solana
 
 Tokens can be cross-chained from any of these chains to the others.  
 Based on the number of chains supported, there are 20 possible bridges between chains today with a possibility to grow to over 100 in the near future.

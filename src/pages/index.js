@@ -10,17 +10,17 @@ import { firstRow } from "../data/features";
 const features = [
   {
     title: <>Intro </>,
-    imageUrl: 'img/relay-icon.e8d6824b.svg',
+    imageUrl: 'img/Acentlogo1.svg',
     description: (
       <>
 	If you are an end user of the Acent Swap ecosystem then this section is for you. We
-	dive into how to buy, store and make the best of your investment in the Relay Ecosystem.
+	dive into how to buy, store and make the best of your investment in the Acent Ecosystem.
       </>
     ),
   },
   {
     title: <>BaaS </>,
-    imageUrl: 'img/relay-icon.e8d6824b.svg',
+    imageUrl: 'img/Acentlogo1.svg',
     description: (
       <>
 	Businesses interested in using BaaS and joining the Acent Swap Ecosystem should dive into this section to help them
@@ -30,7 +30,7 @@ const features = [
   },
   {
     title: <>Devs</>,
-    imageUrl: 'img/relay-icon.e8d6824b.svg',
+    imageUrl: 'img/Acentlogo1.svg',
     description: (
       <>
 	Calling all developers. If you want to explore the more technical side of the Acent Swap Ecosystem then
@@ -83,12 +83,12 @@ function Home() {
       description="Brought to you by Acent Swap">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <h1 className="hero__title white">{siteConfig.title}</h1>
+          <p className="hero__subtitle white">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
               className={classnames(
-                'button button--outline button--secondary button--lg',
+                'button button--outline button--secondary button--lg white',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/intro')}>
@@ -96,7 +96,7 @@ function Home() {
             </Link>
             <Link
               className={classnames(
-                'button button--outline button--secondary button--lg',
+                'button button--outline button--secondary button--lg white',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/baas')}>
@@ -104,7 +104,7 @@ function Home() {
             </Link>
             <Link
               className={classnames(
-                'button button--outline button--secondary button--lg',
+                'button button--outline button--secondary button--lg white',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/resources')}>

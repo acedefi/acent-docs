@@ -6,27 +6,22 @@ hide_title: false
 hide_table_of_contents: false
 description: Acent Swap Bridge - BaaS (Bridging as a Service)
 keywords: 
- - "relay"
+ - "Acent"
  - "docs"
- - "zero"
+ - "acent"
  - "BaaS"
  - "bridging"
  - "blockchains"
- - "Avalanche"
- - "AVAX"
- - "DOT"
- - "KUSAMA"
- - "MATIC"
  - "ETHEREUM"
  - "DEX"
  
-image:  /static/img/relay-icon.e8d6824b.svg
+image: 
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-<img alt="Bridging as a Service" src={useBaseUrl('/img/relay-baas-header.png')} />
+
 
 ## Baas (Bridging as a Service)
 
@@ -40,21 +35,8 @@ We haved designed this white labelled BaaS integration so that partners can easi
 Currently:  
 
 1.  ** Ethereum **
-1.  ** Avalanche **
-1.  ** Polygon **
-1.  ** Heco **
 1.  ** BSC **
 
-Done (waiting for the parachains to go live): 
-
-1.  ** Moonbeam ** (Kusama)
-1.  ** DOT **
-
-In Development:
-
-1.  ** Cosmos **
-1.  ** Fantom **
-1.  ** Solana **
 
 Tokens can be cross-chained from any of these chains to the others.  
 Based on the number of chains supported, there are 20 possible bridges between chains today with a possibility to grow to over 100 in the near future.
@@ -65,9 +47,6 @@ The fees that are paided to use the Acent Swap bridges will depend on which chai
 
 From Ethereum to another chain: 0.056 ETH
 
-From Avax to another chain: 1.00 AVAX
-
-From Polygon to another chain: 10.00 MATIC
 
 From BSC to another chain: 0.07 BNB
 

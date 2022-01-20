@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
-    ABOUT: ['intro','zero-to-relay','baas','resources'],
-    FAQ: ['zero-to-relay','faq/swap-zero','faq/liquidity-pools'],	  
+    ABOUT: ['intro','acent-swap','baas','resources'],
+    FAQ: ['acent-swap','faq/acent-swap','faq/liquidity-pools'],	  
     HELPDESK: ['sd/sd001'], 
   },
 };

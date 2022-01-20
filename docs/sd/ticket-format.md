@@ -1,14 +1,14 @@
 ---
 id: ticket-format
-title: Relay Chain - Ticket Format
-sidebar_label: Relay Chain - Ticket Format
+title: Acent Swap - Ticket Format
+sidebar_label: Acent Swap - Ticket Format
 hide_title: true
 hide_table_of_contents: true
-description: Relay Chain - Ticket Format
+description: Acent Swap - Ticket Format
 keywords:
- - "ZERO Exchange"
- - "$ZERO"
- - "@OfficialZeroDEX"
+ - "ACENT Exchange"
+ - "$ACENT"
+ - "@OfficialAcentDEX"
 image:  /static/img/relay-icon.e8d6824b.svg
 ---
 
@@ -37,7 +37,7 @@ Mail is sent:
 | "issueStatusLabel"			| New	|	 (for info) Label of the status corresponding to the ID	 |	 String	 |
 | "originChain"			| Polygon	|	 Origin chain of the transfer	 |	 ID (string)	 |
 | "destinationChain"			| Avalanche	|	 Destination chain of the transfer	 |	 ID (string)	 |
-| "token"			| ZERO	|	 Token transferred	 |	  Free text (string)	 |
+| "token"			| Acent	|	 Token transferred	 |	  Free text (string)	 |
 | "txID"			| https://polygonscan.com/tx/0xxxxxxxxxx	|	 URL of the TX ID	 |	 URL	 |
 
 _Example of a mail sent in case of a new ticket:_  
@@ -49,10 +49,10 @@ _Example of a mail sent in case of a new ticket:_
 "issueType": "StuckTX",  
 "issueStatusID": "10020",  
 "issueStatusLabel": "New",  
-"originChain": "Polygon",  
-"destinationChain": "Avalanche",  
-"token": "zero",  
-"txID": "https://polygonscan.com/tx/0x2858ef7bc5d2425ba51502e8524b018136c51a59c0f9857caefac884f102026d"  
+"originChain": "Ethereum",  
+"destinationChain": "BSC",  
+"token": "acent",  
+"txID": "https://etherscan.com/tx/0x"  
 }  
 
 
@@ -66,9 +66,9 @@ _Example of a mail sent in case of an escalated ticket:_
 "issueStatusID": "10022",  
 "issueStatusLabel": "Escalated to Discord",  
 "originChain": "BSC",  
-"destinationChain": "Avalanche",  
-"token": "zero",  
-"txID": "https://bscscan.com/tx/0x448a01841d04cbaebeb9ea2bbb032092c25b79789c47d5491cb43bc18e78d5de"  
+"destinationChain": "Ethereum",  
+"token": "acent",  
+"txID": "https://bscscan.com/tx/0x"  
 }  
 
 

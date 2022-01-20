@@ -2,17 +2,17 @@
 module.exports = {
   title: 'Acent Swap',
   tagline: 'Project Reference Guide',
-  url: 'https://docs.relaychain.com/',
+  url: 'https://github.io/acedefi/acent-docs',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'Relay Chain', 
-  projectName: 'relay-docs',
+  organizationName: 'Acent swap', 
+  projectName: 'acent-docs',
   themeConfig: {
     navbar: {
       title: 'Project Reference Guide',
       logo: {
-        alt: 'Relay Chain Logo',
-        src: 'img/relay-logo.png',
+        alt: 'Acent Swap Logo',
+        src: 'img/Acentlogo1.svg',
       },
       items: [
         {
@@ -23,7 +23,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/relaychain/relay-docs/',
+          href: 'https://github.com/acedefi/acent-docs/',
           label: 'GitHub',
           position: 'right',
         },
@@ -54,7 +54,7 @@ module.exports = {
             },
             {
               label: 'How to swap ACE in Acent Swap',
-              to: 'docs/faq/swap-zero/',
+              to: 'docs/faq/acent-swap/',
             },
           ],
         },
@@ -82,12 +82,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/relaychain/relay-docs/edit/main/',
+            'https://github.com/acedefi/acent-docs/edit/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/relaychain/relay-docs/edit/main/',
+            'https://github.com/acedefi/acent-docs/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

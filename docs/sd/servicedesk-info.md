@@ -6,9 +6,9 @@ hide_title: true
 hide_table_of_contents: true
 description: Mod community - Service desk information
 keywords:
- - "ZERO Exchange"
- - "$ZERO"
- - "@OfficialZeroDEX"
+ - "ACENT Exchange"
+ - "$ACENT"
+ - "@OfficialAcentDEX"
 image:  /static/avax-logo.svg
 ---
 

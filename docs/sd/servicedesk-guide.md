@@ -1,14 +1,14 @@
 ---
 id: servicedesk-guide
-title: Relay Chain - Service Desk Guide
-sidebar_label: Relay Chain - Service Desk
+title: Acent Swap - Service Desk Guide
+sidebar_label: Acent Swap - Service Desk
 hide_title: true
 hide_table_of_contents: true
-description: Relay Chain - Service Desk Guide
+description: Acent Swap - Service Desk Guide
 keywords:
- - "ZERO Exchange"
- - "$ZERO"
- - "@OfficialZeroDEX"
+ - "ACENT Exchange"
+ - "$ACENT"
+ - "@OfficialACENTDEX"
 image:  /static/avax-logo.svg
 ---
 

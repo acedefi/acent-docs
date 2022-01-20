@@ -23,32 +23,20 @@ This page is designed to give you easy access to the most used resources in the 
 ## Communities and social media
 
 ### Medium articles
-** [Medium](https://medium.com/@OfficialZeroDex) **
+** [Medium](https://medium.com/acent-tech) **
 
-### Youtube
-** [Acent Swap - DeFi Academy](https://www.youtube.com/) **
-
-<!-- ### Reddit
-** [r/relaychain](https://www.reddit.com/r/relaychain/) ** -->
 
 ### Telegram
 ** [Main channel](https://t.me/AcentChannel) **
 
-** [sub channel](https://t.me/relaychaincommunity) **
+** [sub channel](https://t.me/AcentOfficialChat) **
 
 
 ### Twitter
-** [Official Zero Exchange](https://twitter.com/OfficialZeroDEX) **
-
-** [Project lead, Gram](https://twitter.com/GramCustodian) **
- 
-** Tags to find Acent Swap on Twitter: $RELAY **
-
-### Discord
-** [Discord Invite](https://discord.com/invite/XtZTNVTX5T) **
+** [Acent](https://bit.ly/2UCSX3b) **
 
 ### Github
-** [Acent Swap - Codebase](https://github.com/relaychain/) **
+** [Acent Swap - Codebase](https://github.com/acedefi/) **
 
 
 <!--truncate-->
