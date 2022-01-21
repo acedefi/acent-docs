@@ -5,8 +5,8 @@ module.exports = {
   url: 'https://acedefi.github.io/acent-docs',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'acedefi.github.io', 
-  projectName: 'acedefi',
+  organizationName: 'acedefi', 
+  projectName: 'acent-docs',
   themeConfig: {
     navbar: {
       title: 'Project Reference Guide',
