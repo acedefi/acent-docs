@@ -31,7 +31,7 @@ August 2, 2021 - Acent Swap goes live so save the date!
 
 ## White Paper
 
-[Acent Swap - Boomer Paper](https://acent.tech/whitepaper)
+[Acent Swap  ](https://acent.tech/whitepaper)
 
 ## What is ACENT Bridge?
  
@@ -59,12 +59,12 @@ The brings the positive feedback loops and true ecosystem synergy into the Acent
 
 Tokenomics:
 
-** Total Supply: 10,000,000 $ACENT **
+** Total Supply: 200,000,000 $ACENT **
 
 ** Acent Swap Ratio: 100:1 **
 
 1. Advisors — 4% — tokens are fully locked, if an advisor is signed, they received 10% of their tokens after 30 days, 15% after 60 days, and the remaining 25% each quarter thereafter.
-1. IDO — 2.5% — Initial DEX Offering, helps enable us to bootstrap liquidity on the initial ACENT pools. Vested over 4 days. 20% on TGE and 20% daily.
+1. ICO — 2.5% — Initial DEX Offering, helps enable us to bootstrap liquidity on the initial ACENT pools. Vested over 4 days. 20% on TGE and 20% daily.
 1. Legacy ACENT Holders — 1% — Snapshots already taken. Weighted based on current ACENT holdings. Linearly vests each day for 6 months. Fully vested 12/2021
 1. Network Growth Fund — 25% — Linearly vests each day for 2 years. Helps incentivize developers and partners to build on/with ACENT. Fully vested 6/2023.
 1. Community Incentives — 15% — As needed (for liquidity mining for example) — 24 hour timeclock to withdraw any funds from the incentives contract. The community will be notified of the withdraw and an event will be broadcast on blockchain.
@@ -86,7 +86,7 @@ Based on the number of chains supported, there are 20 possible bridges between c
 [Building a bulletproof multi-chain BaaS](https://www.youtube.com/)
 
 Bridging as a Service, any project can use our bridge to go cross chain, any project or platform that wants to connect their ecosystem to another EVM blockchain can do so, all natively to their app and with the same look and feel for users to feel familiar. 
-Our first integration partner will be coming very soon with QuickSwap as they will be whitelabeling our bridge natively on their app we will start by connecting them from Polygon to Avalanche. We are also the only bridging service in the space to have not 1 but three audits 
+Our first integration partner will be coming very soon with PancakeSwap as they will be whitelabeling our bridge natively on their app we will start by connecting them from Polygon to Avalanche. We are also the only bridging service in the space to have not 1 but three audits 
 
 ## Gas Token Index
 
@@ -110,10 +110,9 @@ During the initial liquidity launch of Bridge Mutual our community formed team r
 
 To date the Acent Bridge contracts have been or are undergoing audits from the following partners:
 
-	*Zokyo*
+	*Slowmist*
 	*Consensys Diligence*
-	*Halborn* (being currently completed)
-	
+		
 This will bring the total number of completed audits to 3 and the strength of the Acent Bridge BaaS platform continues to grow at a pace that is leaving other bridging platforms behind.
 
 
