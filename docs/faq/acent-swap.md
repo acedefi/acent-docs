@@ -1,7 +1,7 @@
 ---
 id: acent-swap
 title: Acent Swap - How-to Guide
-sidebar_label: Acent Swap
+sidebar_label: Swap ACE to ADE
 hide_title: false
 hide_table_of_contents: false
 description: Acent Swap - How-to Guide

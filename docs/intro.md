@@ -1,7 +1,7 @@
 ---
 id: intro 
 title: Acent Swap - Introduction
-sidebar_label: Acent Swap - Introduction
+sidebar_label: Introduction
 hide_title: false
 hide_table_of_contents: false
 description: Acent Swap - Introduction

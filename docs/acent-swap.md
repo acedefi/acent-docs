@@ -1,7 +1,7 @@
 ---
 id: acent-swap 
 title: Acent Swap - Acent Swap
-sidebar_label: Acent Swap - Acent Swap 
+sidebar_label: Acent Swap 
 hide_title: false
 hide_table_of_contents: false
 description: Acent Swap - Acent Swap
@@ -34,7 +34,7 @@ Let's go through the process
 
 ## Acent Swap - 5 Step Migration
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent1.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent1.PNG')} />
 
 <img alt="Acent Swap" src={useBaseUrl('/img/swap/acent2.jpg')} />
 

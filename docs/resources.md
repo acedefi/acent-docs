@@ -1,7 +1,7 @@
 ---
 id: resources 
-title: Acent Swap - DEV Guide
-sidebar_label: Acent Swap - DEV Guide
+title: Acent Swap - resources
+sidebar_label: resources
 hide_title: false
 hide_table_of_contents: false
 description: Acent Swap - Community DEV Guide
@@ -31,23 +31,7 @@ Approve transaction and wait
 Finalize transaction and wait a bit more
 Receive Acent back
 
-## Acent Swap - 8 Step Migration
 
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge1.PNG')} />
-
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge2.PNG')} />
-
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge3.PNG')} />
-
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge4.PNG')} />
-
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge5.PNG')} />
-
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge6.PNG')} />
-
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge7.PNG')} />
-
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge8.PNG')} />
 ## Contract Addresses  
 
 BSC:  
@@ -59,7 +43,7 @@ ETH:
 
 
 
-## Communities and social media
+# Communities and social media
 
 ### Medium articles
 ** [Medium](https://medium.com/acent-tech) **

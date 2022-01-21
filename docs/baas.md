@@ -1,7 +1,7 @@
 ---
 id: baas 
 title: Acent Swap - BaaS (Bridging as a Service)
-sidebar_label: Acent Swap - Bridging
+sidebar_label: Bridging
 hide_title: false
 hide_table_of_contents: false
 description: Acent Swap Bridge - BaaS (Bridging as a Service)
@@ -39,17 +39,14 @@ Currently:
 
 
 
-## Acent Swap - 5 Step Migration
+## Acent Swap - 3 Step Migration
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent1.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/baas/bridge1.jpg')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent2.jpg')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/baas/bridge2.jpg')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent3.jpg')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/baas/bridge3.jpg')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent4.jpg')} />
-
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent5.jpg')} />
 
 ## Contract Addresses  
 
@@ -60,9 +57,11 @@ ETH:
 :::tip
 **If you feel like leaving the members of the team that work on this documentation a tip**
 
-
 Tokens can be cross-chained from any of these chains to the others.  
 Based on the number of chains supported, there are 20 possible bridges between chains today with a possibility to grow to over 100 in the near future.
+
+:::
+
 
 ## Cross chain/bridging fees
 
