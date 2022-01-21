@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{160:function(o){o.exports=JSON.parse('{"hello":{"allTagsPath":"/acent-docs/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/acent-docs/blog/tags/hello"}}')}}]);
