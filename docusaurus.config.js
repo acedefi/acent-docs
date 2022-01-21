@@ -2,8 +2,8 @@
 module.exports = {
   title: 'Acent Swap',
   tagline: 'Project Reference Guide',
-  url: 'https://github.io/acedefi/acent-docs',
-  baseUrl: '/',
+  url: 'https://acedefi.github.io',
+  baseUrl: '/acent-docs/',
   favicon: 'img/favicon.ico',
   organizationName: 'acedefi', 
   projectName: 'acent-docs',
