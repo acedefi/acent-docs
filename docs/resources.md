@@ -31,33 +31,33 @@ Approve transaction and wait
 Finalize transaction and wait a bit more
 Receive Acent back
 
-## Acent Swap - 5 Step Migration
+## Acent Swap - 8 Step Migration
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent1.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge1.png')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent2.jpg')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge2.png')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent3.jpg')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge3.png')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent4.jpg')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge4.png')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/swap/acent5.jpg')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge5.png')} />
 
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge6.png')} />
+
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge7.png')} />
+
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge8.png')} />
 ## Contract Addresses  
 
 BSC:  
 
 ETH: 
-
+<!-- 
 :::tip
-**If you feel like leaving the members of the team that work on this documentation a tip**
-
-#Acent Swap - 5 Step Migration
+**If you feel like leaving the members of the team that work on this documentation a tip** -->
 
 
-
-Acent SwapAcent SwapAcent SwapAcent SwapAcent Swap
-#Contract Addresses
 
 ## Communities and social media
 

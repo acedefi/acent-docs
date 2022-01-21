@@ -2,11 +2,11 @@
 module.exports = {
   title: 'Acent Swap',
   tagline: 'Project Reference Guide',
-  url: 'https://github.io/acedefi/acent-docs',
+  url: 'https://acedefi.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'acedefi', 
-  projectName: 'acent-docs',
+  organizationName: 'acedefi.github.io', 
+  projectName: 'acedefi',
   themeConfig: {
     navbar: {
       title: 'Project Reference Guide',
