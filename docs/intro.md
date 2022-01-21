@@ -24,7 +24,7 @@ import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::important
-August 2, 2021 - Acent Swap goes live so save the date!
+March, 2022 - Acent Swap goes live so save the date!
 :::
 
 <!-- <img alt="Acent Swap Introduction" src={useBaseUrl('/img/relay-intro-header.png')} /> -->

@@ -33,21 +33,21 @@ Receive Acent back
 
 ## Acent Swap - 8 Step Migration
 
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge1.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge1.PNG')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge2.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge2.PNG')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge3.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge3.PNG')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge4.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge4.PNG')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge5.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge5.PNG')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge6.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge6.PNG')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge7.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge7.PNG')} />
 
-<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge8.png')} />
+<img alt="Acent Swap" src={useBaseUrl('/img/bridge/bridge8.PNG')} />
 ## Contract Addresses  
 
 BSC:  
